@@ -1,1 +1,3 @@
-# Selen-um-Marul
+# Selenium-Migros
+- add migratiın initname
+- update database
